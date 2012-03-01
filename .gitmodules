@@ -19,3 +19,6 @@
 [submodule "rails-ux-primer"]
 	path = rails-ux-primer
 	url = git@github.com:adambair/rails-ux-primer.git
+[submodule "asteroids"]
+	path = asteroids
+	url = git@github.com:adambair/asteroids.git
