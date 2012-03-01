@@ -1,0 +1,24 @@
+[submodule "delicious-rails"]
+	path = delicious-rails
+	url = git@github.com:intridea/delicious-rails.git
+[submodule "delicious-rails-scratch"]
+	path = delicious-rails-scratch
+	url = git@github.com:intridea/delicious-rails-scratch.git
+[submodule "linkr"]
+	path = linkr
+	url = git@github.com:adambair/linkr.git
+[submodule "rails-initiate"]
+	path = rails-initiate
+	url = git@github.com:adambair/rails-initiate.git
+[submodule "ruby-curious"]
+	path = ruby-curious
+	url = git@github.com:adambair/ruby-curious.git
+[submodule "ruby_intrigue"]
+	path = ruby_intrigue
+	url = git@github.com:intridea/ruby_intrigue.git
+[submodule "rails-ux-primer"]
+	path = rails-ux-primer
+	url = git@github.com:adambair/rails-ux-primer.git
+[submodule "asteroids"]
+	path = asteroids
+	url = git@github.com:adambair/asteroids.git
