@@ -1,39 +1,42 @@
 = Intridea Training Materials
 
-== Description
-
 A collection of training materials, labs, and guides to assist in running classes and workshops.
 
 == Contents
 
-    asteroids/
-      - companion app for ruby_intrigue
+* asteroids/
+  - companion app for ruby_intrigue
 
+* delicious-rails-scratch/
+  - newer intro-to-rails, incomplete notes
 
-    delicious-rails-scratch/
-      - newer intro-to-rails, incomplete notes
+* delicious-rails/
+  - intro-to-testing
 
+* linkr/
+  - companion app for delicious-rails
 
-    delicious-rails/
-      - intro-to-testing
+* rails-initiate/
+  - complete intro-to-rails course, semi-out of date
 
+* rails-ux-primer/
+  - workshop notes from ux primer for the design team
 
-    linkr/
-      - companion app for delicious-rails
+* ruby-curious/
+  - intro-to-ruby which is fairly up to date
 
+* ruby_intrigue/
+  - old class taught at LSRC with Pradeep and Brendan
+  - game development, SMS, Webcrawlers
 
-    rails-initiate/
-      - complete intro-to-rails course, semi-out of date
+== Notes
 
+All training materials had separate repos. Submoduled to preserve their individual personalities. Run the following after checkout to snag 'em:
 
-    rails-ux-primer/
-      - workshop notes from ux primer for the design team
+    git submodule init
+    git submodule update
 
+== License
 
-    ruby-curious/
-      - intro-to-ruby which is fairly up to date
+Contact Adam Bair (adam@intridea.com, adambair@gmail.com, @adambair)
 
-
-    ruby_intrigue/
-      - old class taught at LSRC with Pradeep and Brendan
-      - game development, SMS, Webcrawlers
