@@ -6,27 +6,34 @@ A collection of training materials, labs, and guides to assist in running classe
 
 == Contents
 
-    |+asteroids/
+    asteroids/
       - companion app for ruby_intrigue
 
-    |+delicious-rails-scratch/
+
+    delicious-rails-scratch/
       - newer intro-to-rails, incomplete notes
 
-    |+delicious-rails/
+
+    delicious-rails/
       - intro-to-testing
 
-    |+linkr/
+
+    linkr/
       - companion app for delicious-rails
 
-    |+rails-initiate/
+
+    rails-initiate/
       - complete intro-to-rails course, semi-out of date
 
-    |+rails-ux-primer/
+
+    rails-ux-primer/
       - workshop notes from ux primer for the design team
 
-    |+ruby-curious/
+
+    ruby-curious/
       - intro-to-ruby which is fairly up to date
 
-    |+ruby_intrigue/
+
+    ruby_intrigue/
       - old class taught at LSRC with Pradeep and Brendan
       - game development, SMS, Webcrawlers
