@@ -4,3 +4,6 @@
 [submodule "delicious-rails-scratch"]
 	path = delicious-rails-scratch
 	url = git@github.com:intridea/delicious-rails-scratch.git
+[submodule "linkr"]
+	path = linkr
+	url = git@github.com:adambair/linkr.git
