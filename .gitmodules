@@ -16,3 +16,6 @@
 [submodule "ruby_intrigue"]
 	path = ruby_intrigue
 	url = git@github.com:intridea/ruby_intrigue.git
+[submodule "rails-ux-primer"]
+	path = rails-ux-primer
+	url = git@github.com:adambair/rails-ux-primer.git
