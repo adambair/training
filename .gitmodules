@@ -10,3 +10,6 @@
 [submodule "rails-initiate"]
 	path = rails-initiate
 	url = git@github.com:adambair/rails-initiate.git
+[submodule "ruby-curious"]
+	path = ruby-curious
+	url = git@github.com:adambair/ruby-curious.git
