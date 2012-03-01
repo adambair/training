@@ -2,6 +2,32 @@
 
 A collection of training materials, labs, and guides to assist in running classes and workshops.
 
+== Overview
+
+The most important courses here are:
+
+    + delicious-rails
+      - An up-to-date rails testing primer
+      - Test a delicious clone
+
+    + delicious-rails-scratch
+      - A rework of rails-initiate with Rails 3.1
+      - Build a delicious clone.
+
+    + ruby-curious
+      - 1.9 introduction to Ruby
+      - Standalone or can be joined with initiate/delicious
+
+Most of the courses are outlined as such:
+
+    + name-of-course
+      | README.rdoc           #=> brief summary
+      | name-of-course.rdoc   #=> course notes and teaching guide
+      + labs/
+        | XX-some-lab.rb      #=> lab instructions for students
+        + solutions/
+          + XX-some-lab       #=> directory containing complete code
+
 == Contents
 
     + asteroids
@@ -28,7 +54,7 @@ A collection of training materials, labs, and guides to assist in running classe
     + ruby_intrigue
       Game development, SMS, Webcrawlers, an old class taught at LSRC with Pradeep and Brendan
 
-== Notes
+== Setup
 
 All training materials had separate repos. Submoduled to preserve their individual personalities. Run the following after checkout to snag 'em:
 
