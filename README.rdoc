@@ -1,6 +1,0 @@
-= Intridea Training Materials
-
-== Description
-
-A collection of training materials, labs, and guides to assist in running classes and workshops.
-
