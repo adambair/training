@@ -13,3 +13,6 @@
 [submodule "ruby-curious"]
 	path = ruby-curious
 	url = git@github.com:adambair/ruby-curious.git
+[submodule "ruby_intrigue"]
+	path = ruby_intrigue
+	url = git@github.com:intridea/ruby_intrigue.git
