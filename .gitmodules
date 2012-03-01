@@ -7,3 +7,6 @@
 [submodule "linkr"]
 	path = linkr
 	url = git@github.com:adambair/linkr.git
+[submodule "rails-initiate"]
+	path = rails-initiate
+	url = git@github.com:adambair/rails-initiate.git
