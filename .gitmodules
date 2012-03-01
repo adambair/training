@@ -1,0 +1,3 @@
+[submodule "delicious-rails"]
+	path = delicious-rails
+	url = git@github.com:intridea/delicious-rails.git
